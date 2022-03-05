@@ -2,7 +2,7 @@
 <hr>
 
 - 🔭 Tenho interesse em atuar como dev front-end
-- 🌱 Atualmente estou estudando (html, css, javascript e Reactjs)
+- 🌱 Atualmente estou estudando (html, css, javascript, sass e reactjs)
 - 😄 Pronomes: ele/dele
 
 <br>
@@ -19,6 +19,7 @@
   <img align="center" alt="Calebe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Calebe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Calebe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Calebe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div><br><br>
 
 <div> 
