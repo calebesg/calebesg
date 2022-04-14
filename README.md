@@ -1,9 +1,9 @@
 ### Olá eu sou Calebe Souza Guimarães
 <hr>
 
-- 🔭 Tenho interesse em atuar como dev front-end
-- 🌱 Atualmente estou estudando (html, css, javascript, sass e reactjs)
-- 😄 Pronomes: ele/dele
+- 🔭 Interested in working as a front-end developer.
+- 🌱 I'm currently learning about (html, css, javascript, sass e reactjs)
+- 😄 Pronouns: he/his
 
 <br>
 
