@@ -9,7 +9,7 @@
 
 <div>
   <a href="https://github.com/calebesg">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=calebesg&show_icons=true&theme=swift&include_all_commits=true&count_private=true&hide=prs,contribs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=calebesg&show_icons=true&theme=swift&include_all_commits=true&count_private=true&hide=contribs"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebesg&layout=compact&langs_count=6&theme=swift"/>
 </div>
 <br>
