@@ -2,7 +2,7 @@
 <hr>
 
 - 🔭 Interested in working as a front-end developer.
-- 🌱 I'm currently learning about (html, css, javascript, sass e reactjs)
+- 🌱 I'm currently learning about (javascript, reactjs, redux, tailwind)
 - 😄 Pronouns: he/his
 
 <br>
