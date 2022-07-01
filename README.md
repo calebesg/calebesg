@@ -2,7 +2,7 @@
 <hr>
 
 - 🔭 Interested in working as a front-end developer.
-- 🌱 I'm currently learning about (javascript, reactjs, redux, tailwind)
+- 🌱 I'm currently learning about (react, next, redux, tailwind, typescript)
 - 😄 Pronouns: he/his
 
 <br>
@@ -13,13 +13,19 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebesg&layout=compact&langs_count=6&theme=swift"/>
 </div>
 <br>
-<div style="display: inline_block">
+<div style="display: flex; align-items: center; gap: '10px' ">
+  
+  
+  <img align="center" alt="Calebe-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
+  <img align="center" alt="Calebe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Calebe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Calebe-Js" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+  <img align="center" alt="Calebe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Calebe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Calebe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Calebe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Calebe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Calebe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Calebe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  
 </div><br><br>
 
 <div> 
