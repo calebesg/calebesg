@@ -7,11 +7,9 @@
 
 <br>
 
-<div>
-  <a href="https://github.com/calebesg">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=calebesg&show_icons=true&theme=swift&include_all_commits=true&count_private=true&hide=contribs"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebesg&layout=compact&langs_count=6&theme=swift"/>
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=calebesg&row=1&column=6&theme=swift&margin-w=15&margin-h=15"/>
+
+<!-- Tecnologis que domino -->
 
 <div style="display: inline-block">
   <img align="center" alt="Calebe-Next" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
@@ -26,9 +24,13 @@
   
 </div>
 
+<!-- Endereços para contato -->
+
 <div> 
 <a href="https://www.linkedin.com/in/calebesg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/profile.php?id=100077443783376" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:calebeguimaraes10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-db4a39?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+![](./profile-3d-contrib/profile-night-reinbow.svg)
 
