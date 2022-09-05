@@ -7,22 +7,19 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=calebesg&row=1&column=6&theme=swift&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=calebesg&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
 
 <!-- Tecnologis que domino -->
 
-<div style="display: inline-block">
-  <img align="center" alt="Calebe-Next" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
-  <img align="center" alt="Calebe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Calebe-Redux" height="24" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Calebe-Tailwindcss" height="110" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
-  <img align="center" alt="Calebe-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Calebe-Js" height="26" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Calebe-Ts" height="26" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Calebe-HTML" height="26" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Calebe-CSS" height="26" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-</div>
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,redux,tailwind,sass,nodejs,express,mongo" />
+</a>
+
+<br>
+<br>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 
 <!-- Endereços para contato -->
 
@@ -31,6 +28,4 @@
   <a href="https://www.facebook.com/profile.php?id=100077443783376" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:calebeguimaraes10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-db4a39?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-![](./profile-3d-contrib/profile-night-reinbow.svg)
 
