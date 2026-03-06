@@ -1,8 +1,8 @@
 ### Hello I'm Calebe Souza Guimarães
 <hr>
 
-- 🔭 Interested in working as a front-end developer.
-- 🌱 I'm currently learning about (react, next, redux, tailwind, typescript)
+- 🔭 Interested in working as a fullstack developer.
+- 🌱 I'm currently learning about (Spring, Java, UnitTest, RestAPI, Angular)
 - 😄 Pronouns: he/his
 
 <br>
@@ -13,7 +13,7 @@
 
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,redux,tailwind,sass,nodejs,express,mongo" />
+  <img src="https://skillicons.dev/icons?i=java,spring,javascript,typescript,react,next,angular,nodejs,redux,tailwind,sass,css,html,mysql,postgres,mongo,git,linux,vscode,idea,postman" />
 </a>
 
 <br>
